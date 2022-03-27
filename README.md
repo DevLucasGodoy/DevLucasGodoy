@@ -11,7 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasGodoy&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<a href="https://portfolio202022.lucasgodoy04.repl.co/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>   
 
 ## Aonde você pode me encontrar
 
