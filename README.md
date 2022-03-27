@@ -23,4 +23,5 @@
   <a href="mailto: lucas.moraes.godoy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="mailto: lucas.moraes.godoy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
 </div>
- ![Snake animation](https://github.com/DevLucasGodoy/DevLucasGodoy/blob/output/github-contribution-grid-snake.svg)
+  
+  ![snake gif](https://github.com/DevLucasGodoy/DevLucasGodoy/blob/output/github-contribution-grid-snake.svg)
