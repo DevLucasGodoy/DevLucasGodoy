@@ -1,6 +1,6 @@
 ## Seja bem-vindo ao meu perfil do GitHub 👋
 
-- 🖥️ Desenvolvedor Front-End
+- 🖥️ Desenvolvedor Fullstack
 - 🧑🏽‍💻 Técnico de Informática formado pelo Instituto Federal do Mato Grosso do Sul
 - 🏫 Graduação em Análise e Desenvolvimento de Sistemas - UNIASSELVI
 
